@@ -26,6 +26,6 @@ Reactome, GO annotations, and disease/phenotype information linked to multiple g
 based on the 4 centrality measurements. We conducted a detailed analysis of prognostically unfavorable genes specific to prostate cancer 
 in this module. Using HINT, we connected them and retrieved Reactome pathway information. 
 
-DOI: 10.5281/zenodo.14010469
+DOI: 10.5281/zenodo.14010461
 
 Email: wangzg@pumc.edu.cn
